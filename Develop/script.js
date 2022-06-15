@@ -4,10 +4,10 @@ var click;
 // This will hold all the choices
 var choices;
 // Confirmation through prompts
-var useNumbers
-var useLower
-var useUpper
-var useSymbol
+var useNumbers;
+var useLower;
+var useUpper;
+var useSymbol;
 
 //The following will be access to the letters, numbers or symbols
 //random lowercase from character code
