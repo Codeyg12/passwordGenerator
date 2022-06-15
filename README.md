@@ -14,10 +14,9 @@ Our acceptance criteria included
 
 ### Overall
 
-This project was fairly challenging but a lot of fun. I know it needs a little bit of touch-up however I'm pleased with how it's turned out so far. I hope to learn more and improve continuously
+This project was fairly challenging but a lot of fun. I know it needs a little bit of touch-up however I'm pleased with how it's turned out so far. I hope to learn more and improve continuously. I also found beautifytools.com/javascript-validator which was extremely helpful
 
 ### Links
 
-Follow this link for the finished product (website.wowza)
-![picture name]
-![picture name]
+Follow this link for the finished product (https://codeyg12.github.io/passwordGenerator/)
+![PG](https://user-images.githubusercontent.com/103782398/173729226-0a451724-acc5-407e-82a8-d45a87443f37.png)
