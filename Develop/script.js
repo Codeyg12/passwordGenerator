@@ -110,7 +110,7 @@ function generatePassword() {
   UserInput(pass);
   return pass;
 }
-// This puts the new password into the textbox
+// This puts the new password into the textbox provided
 function UserInput(pass) {
   document.getElementById("password").value = pass;
 }
